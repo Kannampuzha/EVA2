@@ -45,7 +45,6 @@ _You can choose to skip the score by pressing **Enter**. In this case , the sess
 I know that the algorithm hasn't been explained. I also know that the code is rather messy. A lot of things have been hurried up and this has resulted in some remarkably inefficient code in several parts of the program. It's efficency can be greatly imporved with some thoughtful changes in internal functions , mostly unrelated to the core processes. If you are genuinely intrested to know how it works and what it does , feel free to [mail](mailto:tejaskannampuzha@gmail.com) me and I will be more than happy to explain you everything in detail. I will try my best to make a documentation soon (not in the foreseeable future).
 
 ### What next ?
-**The major limitation in this algorthim is that it accepts only a single input. A more realistic example should inclue multiple stimuli and multiprocessing. There is some (very low) possibilty that would start working on a multi stimuli version , but not in the near future.**
-
+**The major limitation in this algorthim is that it accepts only a single input. A more realistic example should inclue multiple stimuli and multiprocessing. 
 
 
